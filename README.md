@@ -1,8 +1,37 @@
-- 👋 Hey, I’m @Ja-wa-D
-- 👀 I’m interested in solving problems mostly using pyhton. That's a langauage I'm good at!
-- 🌱 I’m currently trying to master python programming language and learning something new about it every day.
-- 💞️ I’m looking to collaborate on projects... whether it be a big or small projects. I want to have experience making some 
-     good projects which could help me improve and learn new skills as a coder
-- 📫 You can just dm me if you want to reach out to me.
-- I'm new to this, ignore my disablility in making my ownn or new bio..
--  I am a coder, If I don't know the solution - Imma just Ctrl C + Ctrl V.. 
+👋 Hey there! I’m Jawad Mohammed
+
+🎓 Final-Year CSE Student | 💡 Machine Learning & AI Enthusiast | 💻 Web Developer
+🚀 About Me
+
+I’m Jawad, a Computer Science student specializing in Artificial Intelligence & Machine Learning. I’m passionate about using tech to solve real-world problems and love exploring the world of AI, machine learning, and modern web development.
+
+I started with HTML, CSS & JavaScript for mini-projects, and I’m currently upgrading them into React applications. Right now, I’m working on a major project — a stock trading platform — and I’m focused on making it more AI-driven, blending real-time data with predictive insights to create smarter investment tools.
+🧰 Tech Stack
+
+    💻 Programming: Python | JavaScript | Java
+
+    ⚙️ Frameworks: React | Node.js
+
+    🗃️ Tools: Git | MySQL
+
+    🧠 ML Libraries: TensorFlow | PyTorch | Scikit-learn (always eager to learn more!)
+
+🌱 Currently Focusing On:
+
+    Tailoring & enhancing my personal and academic projects
+
+    Adding AI-driven features to my major stock trading platform
+
+    Expanding my knowledge in deep learning and real-world ML applications
+
+    Exploring open-source contributions
+    
+🎯 Let’s Connect!
+
+[LinkedIn](https://www.linkedin.com/in/jawad-mohammed-86b306241)
+ 
+🎮 When I’m Not Coding:
+
+You’ll probably find me:
+🎧 Listening to music | 🎮 Gaming | 📚 Reading | 🏋️‍♂️ Hitting the gym
+
