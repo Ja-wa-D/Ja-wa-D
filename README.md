@@ -12,7 +12,7 @@ I started with HTML, CSS & JavaScript for mini-projects, and I’m currently upg
 
     ⚙️ Frameworks: React | Node.js
 
-    🗃️ Tools: Git | MySQL
+    🗃️ Tools:  Docker | Git | MySQL
 
     🧠 ML Libraries: TensorFlow  | Scikit-learn (always eager to learn more!)
 
