@@ -10,7 +10,7 @@ I started with HTML, CSS & JavaScript for mini-projects, and I’m currently upg
 
     💻 Programming: Python | JavaScript | Java | TypeScript
 
-    ⚙️ Frameworks: React | Node.js
+    ⚙️ Frameworks: React | Next.js
 
     🗃️ Tools:  Docker | Git | MySQL
 
