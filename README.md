@@ -8,7 +8,7 @@ I’m Jawad, a Computer Science student specializing in Artificial Intelligence 
 I started with HTML, CSS & JavaScript for mini-projects, and I’m currently upgrading them into React applications. Right now, I’m working on a major project — a stock trading platform — and I’m focused on making it more AI-driven, blending real-time data with predictive insights to create smarter investment tools.
 🧰 Tech Stack
 
-    💻 Programming: Python | JavaScript | Java
+    💻 Programming: Python | JavaScript | Java | TypeScript
 
     ⚙️ Frameworks: React | Node.js
 
