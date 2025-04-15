@@ -14,7 +14,7 @@ I started with HTML, CSS & JavaScript for mini-projects, and I’m currently upg
 
     🗃️ Tools: Git | MySQL
 
-    🧠 ML Libraries: TensorFlow | PyTorch | Scikit-learn (always eager to learn more!)
+    🧠 ML Libraries: TensorFlow  | Scikit-learn (always eager to learn more!)
 
 🌱 Currently Focusing On:
 
