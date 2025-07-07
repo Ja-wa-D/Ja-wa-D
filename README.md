@@ -1,6 +1,6 @@
 👋 Hey there! I’m Jawad Mohammed
 
-🎓 Final-Year CSE Student | 💡 Machine Learning & AI Enthusiast | 💻 Web Developer
+🎓  CSE UnderGrad | 💡 Machine Learning & AI Enthusiast | 💻 Web Developer
 🚀 About Me
 
 I’m Jawad, a Computer Science student specializing in Artificial Intelligence & Machine Learning. I’m passionate about using tech to solve real-world problems and love exploring the world of AI, machine learning, and modern web development.
