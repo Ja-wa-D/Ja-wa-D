@@ -2,9 +2,9 @@
 👋 Hey there! I’m Jawad Mohammed<br>
 A Computer Science student specializing in Artificial Intelligence & Machine Learning. I’m passionate about using tech to solve real-world problems and love exploring the world of AI, machine learning, and modern web development.
 <br><br>
-I started with HTML, CSS & JavaScript for mini-projects, and I’m currently upgrading them into React applications. Right now, I’m working on a major project - a stock trading platform - and I’m focused on making it more AI-driven, blending real-time data with predictive insights to create smarter investment tools.<br><br>
+I started with HTML, CSS & JavaScript for mini-projects, and I’m currently upgrading them into React applications. Right now, I’m working on a major project - a stock trading platform - and I’m focused on making it more AI-driven, blending real-time data with predictive insights to create smarter investment tools.<br>
 <br>🌱 Currently Focusing On:<br>
-<br>Tailoring & enhancing my personal and academic projects<br>Adding AI-driven features to my major stock trading platform<br>Expanding my knowledge in deep learning and real-world ML applications<br>Exploring open-source contributions
+<br>-Tailoring & enhancing my personal and academic projects<br>-Adding AI-driven features to my major stock trading platform<br>-Expanding my knowledge in deep learning and real-world ML applications<br>-Exploring open-source contributions
 
 
 ## 🌐 Socials:
